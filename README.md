@@ -28,4 +28,4 @@ My short-term goal is to land an entry-level IT support / junior system administ
 
 I'm always learning — feel free to reach out if you have feedback or suggestions.
 
-"Passwords are intentionally omitted from write-ups to keep the challenge fun for others — the focus here is on methodology and problem-solving."
+Passwords are intentionally omitted from write-ups to keep the challenge fun for others — the focus here is on methodology and problem-solving.
