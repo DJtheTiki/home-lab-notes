@@ -27,3 +27,5 @@ My Goal
 My short-term goal is to land an entry-level IT support / junior system administrator role to gain real-world experience, and my long-term goal is to move into a SOC Analyst or IT Security position. I'm currently working toward the SAL1 (SOC Analyst Level 1) certification.
 
 I'm always learning — feel free to reach out if you have feedback or suggestions.
+
+"Passwords are intentionally omitted from write-ups to keep the challenge fun for others — the focus here is on methodology and problem-solving."
