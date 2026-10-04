@@ -1,6 +1,6 @@
 # Incident Investigation: Malvertising → DLL Sideloading → Domain-Wide Compromise
 
-Note: This write-up describes my own investigative process and findings from a guided SOC training exercise. Platform-specific task prompts and exact UI text are intentionally omitted; this is a narrative reconstruction in my own words, focused on methodology rather than reproducing the exercise content itself.
+> Note: This write-up describes my own investigative process and findings from a guided SOC training exercise. Platform-specific task prompts and exact UI text are intentionally omitted; this is a narrative reconstruction in my own words, focused on methodology rather than reproducing the exercise content itself.
 
 ## Scenario Overview
 I investigated a five-day intrusion that began with a single employee clicking a sponsored search result for a routine software update. The case spanned a workstation, a file server, and a domain controller, requiring me to correlate XDR process trees, SIEM process-creation events, and image-load telemetry to reconstruct the full chain from initial click to domain-wide compromise.
