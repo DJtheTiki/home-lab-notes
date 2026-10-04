@@ -20,6 +20,7 @@ What's in this repo
 |--------|-------------|
 | `bandit/` | Write-ups from [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) — Linux command-line and privilege escalation challenges |
 | `wireshark/` | Packet capture exercises and traffic analysis notes |
+| `SOCsimulator/` | Incident investigation write-ups from [SOCSimulator](https://www.socsimulator.com) — multi-source SOC analyst scenarios (XDR, SIEM, Cloud, Network) |
 | `home-lab/` | Setup notes and configuration for my VirtualBox/Kali Linux lab environment |
 
 My Goal
